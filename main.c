@@ -11,6 +11,7 @@ int main(void)
   return 0;
 }
 
+/*add function*/
 static int add(int a, int b)
 {
   return a+b;
